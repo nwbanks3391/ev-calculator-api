@@ -1,0 +1,6 @@
+@EVCalculatorAPI_HostAddress = http://localhost:5204
+
+GET {{EVCalculatorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
