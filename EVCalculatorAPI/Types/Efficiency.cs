@@ -1,6 +1,6 @@
 namespace EVCalculatorAPI.Types
 {
-    public class Efficiency
+    public class Efficiency 
     {
         public Efficiency(double milesPerkWh, double whPerMile, double kWhPer100Miles, double kilometersPerkWh, double whPerKilometer, double kWhPer100Kilometers, double mPGe)
         {
